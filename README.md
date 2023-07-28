@@ -14,7 +14,7 @@ A pandas project for analyzing a school district's data at school and district l
 
 
 #### Introduction
-This project uses a Jupyter Notebook (ipynb) script with pandas to analyze two csv files: one that has schools, sizes, and budgets; and another that has student data, including math and reading scores. The analysis yields summaries about relationships among school size, budget, type, and academic performance. Results and summaries are visualized in-line, consistent with ipynb files. 
+This project uses a Jupyter Notebook (ipynb) script with pandas to analyze two csv files: one that has data about schools, sizes, and budgets; and another that has student data, including math and reading scores. The analysis yields summaries about relationships among school size, budget, type, and academic performance. Results and summaries are visualized in-line, consistent with ipynb files. 
 
 
 
