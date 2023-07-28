@@ -14,7 +14,7 @@ A pandas project for analyzing a school district's data at school and district l
 
 
 #### Introduction
-This project uses a Jupyter Notebook (ipynb) script that uses pandas to analyze two csv files: school size and budget, student data including math and reading scores. The analysis yields summaries about relationships among school size, budget type, academic performance. Results and summaries are visualized in-line, consistent with ipynb files. 
+This project uses a Jupyter Notebook (ipynb) script with pandas to analyze two csv files: one that has schools, sizes, and budgets; and another that has student data, including math and reading scores. The analysis yields summaries about relationships among school size, budget, type, and academic performance. Results and summaries are visualized in-line, consistent with ipynb files. 
 
 
 
@@ -26,8 +26,8 @@ Pandas (version: 2.0.3)
 
 #### Analysis
 Two datasets were provided as csv files: 
-- Schools data with columns "School ID", "school_name", "type", "size", and "budget". 
-- Students data with columns: "Student ID", "student_name", "gender", "grade", "school_name", "reading_score",and "math_score".
+- Schools data with columns: "School ID", "school_name", "type", "size", and "budget". 
+- Student data with columns: "Student ID", "student_name", "gender", "grade", "school_name", "reading_score", and "math_score".
 
 The following results were generated:
 ##### 1. District Summary 
@@ -135,7 +135,7 @@ The following results were generated:
 
 
 #### Usage
-Here's how to use the PyCitySchools Jupyter Notebook script:
+Here's how to use the PyCitySchools Jupyter Notebook with pandas script:
 - ##### Ensure that the CSV files contain the specified data in the appropriate format
 - Schools data with columns: "School ID", "school_name", "type", "size", and "budget". 
 - Students data with columns: "Student ID", "student_name", "gender", "grade", "school_name",
