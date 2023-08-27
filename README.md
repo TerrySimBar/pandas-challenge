@@ -150,7 +150,7 @@ Here's how to use the PyCitySchools Jupyter Notebook with pandas script:
 
 Contributions to this projects are highly encouraged! If you wish to contribute, please follow these guidelines:
 
-- Fork the respective repository for the PyCitySchools Jupyter Notebook script and clone it locally.
+- Fork the pandas-challenge repository and clone it locally.
 - Create a new branch for your feature or bug fix.
 - Commit your changes with descriptive commit messages.
 - Push your branch to your forked repository.
